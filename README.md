@@ -1,5 +1,8 @@
 # auth-demo
 
+## Demo
+See https://salty-spire-21432.herokuapp.com/
+
 ## Project setup
 ```
 npm install
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
